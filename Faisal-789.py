@@ -12,7 +12,7 @@ try:
 except ModuleNotFoundError: 
 	print('\n Installing missing modules ...')
 	os.system('pip install requests bs4 futures==2 > /dev/null')
-	os.system('python FKING.py')
+	os.system('python Faisal-789.py')
 import requests,json,os,sys,random,datetime,subprocess,time,re,calendar,base64,zlib,string,platform,uuid
 from bs4 import BeautifulSoup as sop	
 print('[➣] Follow My Facebook')
@@ -47,7 +47,7 @@ for jf in range(10000):
 	aa='Mozilla/5.0 (Linux; U; Android'
 	b=random.choice(['6','7','8','9','10','11','12','13'])
 	c=f' en-us; {str(gt)}'
-	g='AppleWebKit/537.36 (KHTML, like Gecko) Chrome/'
+	g='AppleWebKit/537.36 (HTML, like Gecko) Chrome/'
 	h=random.randrange(73,100)
 	i='0'
 	j=random.randrange(4200,4900)
